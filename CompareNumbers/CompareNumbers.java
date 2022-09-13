@@ -1,11 +1,3 @@
-//------------------------------------------
-// Programmer: 		Carlos Morales
-// Course: 			COSC 1336 Section 012
-// Semester: 		Summer 2018
-// Assignment #: 	3
-// Due Date: 		June 27, 2018
-//------------------------------------------
-
 	// import the Scanner class to enable
 	// reading in from the keyboard
 import java.util.Scanner;

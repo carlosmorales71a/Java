@@ -1,11 +1,3 @@
-//------------------------------------------
-// Programmer: 		Carlos Morales
-// Course: 			COSC 1336 Section 012
-// Semester: 		Summer 2018
-// Assignment #: 	8
-// Due Date: 		July 18, 2018
-//------------------------------------------
-
 	// for GUIs using swing
 import javax.swing.*;
 

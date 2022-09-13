@@ -1,11 +1,3 @@
-//----------------------------------------------------
-// Programmer:		Carlos Morales
-// Course: 			COSC 2436 Section 003
-// Semester: 		Spring 2021
-// Assignment #:	10b
-// Due Date: 		4/14/2021   
-//---------------------------------------------------- 
-
 import javax.swing.*; 
 
 public class DecimalToBinary {

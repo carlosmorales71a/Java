@@ -1,11 +1,3 @@
-//----------------------------------------------------
-// Programmer:		Carlos Morales
-// Course: 			COSC 2436 Section 003
-// Semester: 		Spring 2021
-// Assignment #:	4
-// Due Date: 		2/24/2021
-//----------------------------------------------------
-
 import java.awt.*;
 import javax.swing.JFrame;
 

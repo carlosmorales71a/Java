@@ -1,11 +1,3 @@
-//------------------------------------------
-// Programmer: 		Carlos Morales
-// Course: 			COSC 1336 Section 012
-// Semester: 		Summer 2018
-// Assignment #: 	9
-// Due Date: 		July 25, 2018
-//------------------------------------------
-
 	// import classes or packages
 	// needed for this program
 import javax.swing.*;

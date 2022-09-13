@@ -1,11 +1,3 @@
-//---------------------------------------------------
-// Programmer:   Carlos A Morales
-// Course:       COSC 1437 Section 004
-// Semester:     Summer 2019
-// Assignment #: 01
-// Due Date:     06/19/2019
-//---------------------------------------------------
-
 import javax.swing.*;
 import java.text.NumberFormat;
 import java.util.Random;

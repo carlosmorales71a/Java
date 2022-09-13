@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.Random;   // import the Random class
 
-public class SemesterProjectGUI extends JPanel {
+public class ProjectGUI extends JPanel {
 	   // declare instance fields that will be used in our program
 	private int target;
 	private boolean donePopulate, doneSort, doneSearch;
@@ -30,7 +30,7 @@ public class SemesterProjectGUI extends JPanel {
 	private JButton btnPopulate, btnSort, btnSearch;
 	private JButton btnDisplay, btnExit;
 		
-	public SemesterProjectGUI()
+	public ProjectGUI()
 	{
 			// give our panel a 'BoxLayout' with appropriate
 			// dimensions and color
@@ -105,7 +105,7 @@ public class SemesterProjectGUI extends JPanel {
 		add(pnlFiveButtons);
 		add(pnlBottom);
 		add(pnlBottom2);
-	}   // end constructor SemesterProjectGUI
+	}   // end constructor ProjectGUI
 	
 	//------------listeners------------
 	
@@ -426,4 +426,4 @@ public class SemesterProjectGUI extends JPanel {
 		return binaryCount;
 	}
 
-}   // end SemesterProjectGUI
+}   // end ProjectGUI

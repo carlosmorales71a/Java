@@ -1,11 +1,3 @@
-//----------------------------------------------------
-// Programmer:   Carlos A Morales
-// Course:       COSC 1437 Section 004
-// Semester:     Summer 2019
-// Assignment #: 03
-// Due Date:     06/26/2019
-//----------------------------------------------------
-
 import java.util.Scanner;
 import java.io.*;
 import javax.swing.*;

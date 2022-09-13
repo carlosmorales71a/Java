@@ -1,11 +1,3 @@
-//----------------------------------------------------
-// Programmer:   Carlos A Morales
-// Course:       COSC 1437 Section 004
-// Semester:     Summer 2019
-// Assignment #: 06
-// Due Date:     06/26/2019
-//----------------------------------------------------
-	
 	// for GUI programming
 import javax.swing.JFrame;
 

@@ -1,15 +1,7 @@
-//----------------------------------------------------
-// Programmer:   Carlos Morales
-// Course:       COSC 2436 Section 003
-// Semester:     Spring 2021
-// Assignment #: Semester Project
-// Due Date:     4/28/21
-//----------------------------------------------------
-
 import java.awt.*;
 import javax.swing.JFrame;
 
-public class SemesterProjectTester {
+public class ProjectTester {
 
 	/**
 	 * @param args
@@ -46,4 +38,4 @@ public class SemesterProjectTester {
 		
 	}   // end method main
 
-}   // end class SemesterProjectTester
+}   // end class ProjectTester

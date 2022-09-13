@@ -1,11 +1,3 @@
-//----------------------------------------------------
-// Programmer: 		Carlos Morales
-// Course: 			COSC 1437 Section 004
-// Semester: 		Summer 2019
-// Assignment #: 	Semester Project
-// Due Date: 		July 10, 2019
-//----------------------------------------------------
-
 import java.awt.*;
 import javax.swing.JFrame;
 

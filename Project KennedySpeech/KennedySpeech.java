@@ -1,11 +1,3 @@
-//------------------------------------------
-// Programmer: 		Carlos Morales
-// Course: 			COSC 1336 Section 012
-// Semester: 		Summer 2018
-// Assignment #: 	Semester Project
-// Due Date: 		July 18, 2018
-//------------------------------------------
-
 	// import classes and packages to be used
 import java.util.Scanner;
 import java.io.*;

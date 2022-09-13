@@ -1,10 +1,3 @@
-//------------------------------------------
-// Programmer: 		Carlos Morales
-// Course: 			COSC 1336 Section 012
-// Semester: 		Summer 2018
-// Assignment #: 	1b
-// Due Date: 		June 13, 2018
-//------------------------------------------
 public class Quotes {
 
 	public static void main(String[] args) {
